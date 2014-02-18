@@ -10,7 +10,7 @@ package javaapplicationteam;
  */
 public class JavaApplicationTeam {
 
-    private int id;
+    private String id;
     /**
      * @param args the command line arguments
      */
